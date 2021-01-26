@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-compress-1.20/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-compress-1.20/commons-compress-1.20-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-compress-1.20/commons-compress-1.20-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-compress-1.20/commons-compress-1.20-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-compress-1.20/commons-compress-1.20-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/xz-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/bcprov-jdk15to18-168.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/bcpkix-jdk15on-168.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-lang3-3.11/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-lang3-3.11/commons-lang3-3.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-lang3-3.11/commons-lang3-3.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-lang3-3.11/commons-lang3-3.11-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stoyan Grancharov/Desktop/interview/commons-lang3-3.11/commons-lang3-3.11-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
